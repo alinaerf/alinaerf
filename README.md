@@ -2,7 +2,7 @@
 - I am a student in Minerva University, majoring in Software Engineering and Artificial Intelligence.
 - I am primarily interested in Full-Stack and Android Development.
 
-## Contact:
+## :writing_hand: Contact:
 <div id="badges">
   <a href="https://www.linkedin.com/in/alina-erofeeva-minerva/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,8 +30,11 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## :computer: Projects:
+- <a href='https://github.com/alinaerf/Full-Stack-2022'> Full-Stack Projects </a>
+- <a href='https://github.com/alinaerf/CS-projects'> Python & JavaScript Projects </a>
 
-## Statistics:
+## :chart_with_upwards_trend:	Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alinaerf)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinaerf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
