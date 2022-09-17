@@ -26,13 +26,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;   
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;   
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ## :computer: Projects:
 - <a href='https://github.com/alinaerf/Full-Stack-2022'> Full-Stack Projects </a>
-- <a href='https://github.com/alinaerf/CS-projects'> Python & JavaScript Projects </a>
+- <a href='https://github.com/alinaerf/CS-projects'> Python, Kotlin, and JavaScript Projects </a>
 
 ## :chart_with_upwards_trend:	Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alinaerf)](https://git.io/streak-stats)
