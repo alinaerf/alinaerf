@@ -1,6 +1,6 @@
 ## :woman_technologist: About Me :
 - I am a student in Minerva University, majoring in Software Engineering and Artificial Intelligence.
-- I am primarily interested in Full-Stack and Android Development.
+- I am primarily interested in Backend and Full-Stack Development.
 
 ## :writing_hand: Contact:
 <div id="badges">
