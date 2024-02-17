@@ -34,6 +34,7 @@
 - <a href='https://github.com/alinaerf/Full-Stack-2022'> Full-Stack Projects </a>
 - <a href='https://github.com/alinaerf/CS-projects'> Python, Kotlin, and JavaScript Projects </a>
 - <a href='https://github.com/e-yang08/ilLuSIonOfgReaTNesS'> Hackathon Project (React Native) </a>
+- <a href='https://github.com/alinaerf/EmoSense'> Diploma project (React Native) </a>
 
 ## :chart_with_upwards_trend:	Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alinaerf)](https://git.io/streak-stats)
