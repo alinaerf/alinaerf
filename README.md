@@ -31,8 +31,9 @@
 </div>
 
 ## :computer: Projects:
-- <a href='https://github.com/alinaerf/EmoSense'> Graduation project (React Native/Node) </a>
-- <a href='https://github.com/e-yang08/ilLuSIonOfgReaTNesS'> Hackathon Project (React Native) </a>
+- <a href='https://github.com/alinaerf/EmoSense'> Mental Health Tracking App (Thesis project) </a>
+- <a href='https://github.com/e-yang08/ilLuSIonOfgReaTNesS'> Women Safety App (RTC Black Wings Hackathon'24) </a>
+- <a href='https://github.com/EnesAkyuz/BabyLlama'> Parent Assistant App (UCBerkley Hackathon'24) </a>
 - <a href='https://github.com/alinaerf/Full-Stack-2022'> Full-Stack Projects </a>
 - <a href='https://github.com/alinaerf/CS-projects'> Python, Kotlin, and JavaScript Projects </a>
 ## :chart_with_upwards_trend:	Statistics:
